@@ -1,4 +1,5 @@
 Author: LU Honghao
+
 Department: College of Information Science and Engineering, Northeastern University (Shenyang, China)
 
 Description: Interior point algorithm based on affine scaling with logarithmic barrier function, the example and code are presented.
